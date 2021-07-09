@@ -1,5 +1,5 @@
-import "./styles.css";
 import Deck from "./Deck";
+import "./App.css";
 export default function App() {
 	return (
 		<div className="App">
